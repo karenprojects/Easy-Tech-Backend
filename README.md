@@ -16,4 +16,5 @@ npm nodemon -D
 npm run start
 <br/>
 **Diagrama de arquitetura (estrutura de pastas)**
+<br/>
 ![image](https://github.com/user-attachments/assets/5cdac830-8b24-4a6f-9042-9c10f3cf70d8)
